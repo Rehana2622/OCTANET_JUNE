@@ -1,0 +1,1 @@
+This repository contains two web projects and one python project: a Travel Landing Page a To-Do List Page and calculator . Both projects are built with modern web development technologies, providing users with an engaging and functional experience.
